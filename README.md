@@ -1,2 +1,2 @@
 # myinf
-me repositorio
+meu repositorio
